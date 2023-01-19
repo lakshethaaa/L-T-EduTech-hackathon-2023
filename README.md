@@ -10,8 +10,8 @@ The dataset used in this project can be found at the following link: https://cut
 
 # Requirements
 
-TensorFlow
+****TensorFlow
 Keras
 Numpy
-Scikit-learn
+Scikit-learn****
 
