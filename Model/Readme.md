@@ -6,4 +6,4 @@ This folder contains
 
 3.Predictions.txt: text file containing results of predict
 
-4.vgg16_final.h5: the weights of the finalized model
+4.vgg16_final.txt : gdrive link to the weights of the finalized model
