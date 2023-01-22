@@ -18,10 +18,16 @@ Scikit-learn****
 # Judging metrics
 
 Testing Accuracy is:  0.975
+
 Precision:  [1.         0.95238095]
+
 Recall:  [0.95 1.  ]
+
 F1:  [0.97435897 0.97560976]
+
 Confusion matrix:
+ 
  [[ 95   5]
+ 
  [  0 100]]
 
